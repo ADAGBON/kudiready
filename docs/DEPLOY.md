@@ -2,6 +2,17 @@
 
 You need: a GitHub account, a [Render](https://render.com) account and a [Vercel](https://vercel.com) account (both can sign in with GitHub).
 
+## Fastest path (script)
+
+```bash
+gh auth login && npx vercel login          # once
+./scripts/ship.sh                          # creates the GitHub repo + pushes; prints your Render deploy link
+# click the Render link it prints, Apply, wait for the API to go live, then:
+./scripts/ship.sh https://<your-api>.onrender.com    # deploys the frontend to Vercel
+```
+
+Then set `CORS_ORIGINS` on Render to the Vercel URL the script prints. The manual steps below do the same thing by hand.
+
 ## 1. Push to GitHub
 
 ```bash

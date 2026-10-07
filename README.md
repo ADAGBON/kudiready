@@ -5,6 +5,10 @@ Upload a bank or mobile-money statement (CSV). KudiReady turns it into the pictu
 
 > Live app: `https://<your-vercel-app>.vercel.app` · API docs: `https://<your-render-api>.onrender.com/docs`
 
+[![CI](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml/badge.svg)](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ADAGBON/kudiready)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FADAGBON%2Fkudiready&root-directory=frontend&env=VITE_API_URL&envDescription=Your%20Render%20API%20URL%2C%20no%20trailing%20slash&project-name=kudiready)
+
 ![Dashboard](docs/screenshots/06-dashboard-after.png)
 
 ## Why
