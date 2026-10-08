@@ -4,6 +4,7 @@
 Upload a bank or mobile-money statement (CSV). KudiReady turns it into the picture a loan officer actually looks at — monthly cash flow, margin, stability, existing debt — scores it across four explainable pillars, lists exactly what to fix, and lets the owner share a read-only, expiring credit file with a lender.
 
 > **Live app:** https://kudiready.vercel.app · **API docs:** https://kudiready-api.onrender.com/docs
+> **Demo video:**  https://youtu.be/gbR0n0q7INQ · **Report:** [docs/KudiReady-Report.pdf](docs/KudiReady-Report.pdf)
 
 [![CI](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml/badge.svg)](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ADAGBON/kudiready)
