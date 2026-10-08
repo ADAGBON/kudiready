@@ -3,7 +3,7 @@
 **Credit-readiness for Nigerian micro and small businesses.**
 Upload a bank or mobile-money statement (CSV). KudiReady turns it into the picture a loan officer actually looks at — monthly cash flow, margin, stability, existing debt — scores it across four explainable pillars, lists exactly what to fix, and lets the owner share a read-only, expiring credit file with a lender.
 
-> Live app: `https://<your-vercel-app>.vercel.app` · API docs: `https://<your-render-api>.onrender.com/docs`
+> **Live app:** https://kudiready.vercel.app · **API docs:** https://kudiready-api.onrender.com/docs
 
 [![CI](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml/badge.svg)](https://github.com/ADAGBON/kudiready/actions/workflows/ci.yml)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ADAGBON/kudiready)
