@@ -78,7 +78,7 @@ See [docs/DEPLOY.md](docs/DEPLOY.md) — about 15 minutes, free tiers only.
 ```
 backend/   FastAPI app, Alembic migrations, tests, Dockerfile
 frontend/  React SPA, vercel.json
-docs/      architecture, diagrams, screenshots, deployment guide, demo script
+docs/      architecture, diagrams, screenshots, demo script
 render.yaml            Render blueprint (API + Postgres as code)
 .github/workflows/ci.yml
 ```
